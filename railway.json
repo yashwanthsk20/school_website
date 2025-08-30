@@ -4,6 +4,7 @@
       "nixpacks": {
         "workingDirectory": "server"
       }
-    }
+    },
+    "start": "npm start --prefix server"
   }
   
